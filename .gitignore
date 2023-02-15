@@ -9,3 +9,6 @@ Data/
 # IPython
 profile_default/
 ipython_config.py
+
+# Files containing confidential / personal data
+_PreProcessingConfi.ipynb
